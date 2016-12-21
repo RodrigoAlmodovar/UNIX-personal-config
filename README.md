@@ -13,7 +13,12 @@ File with trusted repositories
 Script to install from scratch several programs the sources.list file
 ###bash_aliases
 If you want to reload it each time you run 
-source ~/.bashrc or . ~/.bashrc
+	
+	$ source ~/.bashrc
+or
+
+	$ . ~/.bashrc
+
 you must include in your .bashrc file the following:
 
 
