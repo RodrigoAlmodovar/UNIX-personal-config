@@ -1,4 +1,4 @@
-#bash-config
+#UNIX-personal-configuration
 My personal bash configuration
 
 ##What's included
